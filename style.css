@@ -1,0 +1,40 @@
+.screen{
+    width:410px;
+    height:530px;
+    background-color: black;
+    margin-left:480px;
+    margin-top: 70px;
+    border-radius: 20px;
+    border:5px solid rgb(75, 161, 211);
+    
+}
+#out{
+    width:380px;
+    height:100px;
+    margin-left:10px;
+    margin-top:15px;
+    background-color: rgb(166, 101, 172) ;
+    border-radius: 10px;
+    border-color: beige;
+    text-align:right;
+    pointer-events: none;
+    font-size:x-large
+
+}
+.buttons{
+    margin-top:20px;
+    margin-left:10px;
+
+}
+.btn{
+    width:90px;
+    height:70px;
+    margin:2px;
+    border-radius: 20px;
+    background-color: rgb(166, 101, 172);
+    border-color: beige;
+    font-size:x-large;
+
+
+
+}
